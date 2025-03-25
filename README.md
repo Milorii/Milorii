@@ -1,7 +1,15 @@
-## Hi there 👋
+## Pagi Lord, Hii Guys!
 
+  Hii, There!! Im Milorii, King Milorii!! Here You Go :D
+
+  <p align="left">
+<a href="https://github.com/penuliscode">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
+</a>
+</p>
 <!--
-**Milorii/Milorii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Milorii/Milorii* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
